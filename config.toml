@@ -1,5 +1,5 @@
 baseurl = "http://example.org"
-title = "KCNI Summer School 2020"
+title = "KCNI Summer School 2020 <br> <br> Solving Problems in Mental Health Using Multi-Scale Computational Neuroscience"
 
 
 theme = "dimension"
@@ -9,7 +9,7 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = "Solving Problems in Mental Health Using Multi-Scale Computational Neuroscience <br> July 6-10 <br> 2020"
+  description = "<br> <br> 6-12 July 2020 <br> <br> Krembil Centre for Neuroinformatics <br> Centre for Addiction and Mental Health <br>Toronto <br>"
   #description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br /> <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
   logo = "fa-diamond"
   copyright = "Untitled"
