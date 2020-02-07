@@ -6,7 +6,7 @@ draft = false
 
 {{< figure class="image main" src="/images/cognitive_network_modelling.jpg" >}}
 
-Lead Instructors: 
+## Lead Instructors: 
 
 Dr. Andreea Diaconescu     
 Dr. Erin Dickie  
