@@ -2,7 +2,7 @@
 
 The website is written in Hugo and deployed with CI on Netlify. 
 
-Preview current build [here](https://serene-hopper-213c9e.netlify.com/)
+The site is now live at [kcnischool.org](www.kcnischool.org)
 
 The site will re-build upon each new commit to this repo. 
 
